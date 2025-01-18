@@ -1,5 +1,8 @@
 class Calulator
 {
+int substract(int x,int y){
+retrurn x-y;
+}
 static void main()
 {
 
