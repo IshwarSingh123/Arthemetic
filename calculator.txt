@@ -1,7 +1,0 @@
-class Calulator
-{
-static void main()
-{
-
-}
-}
