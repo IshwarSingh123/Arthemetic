@@ -4,6 +4,9 @@ class Calulator
 int subtract(int x,int y){
 retrurn x-y;
 }
+int multiply(int x,int y){
+return x*y;
+}
 
 int add(int x, int y){
 return x+y;
